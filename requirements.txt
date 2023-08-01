@@ -1,0 +1,10 @@
+subprocess
+pyautogui
+script_name_to_call
+os
+base64
+re
+requests
+pyarmor
+pyinstaller>=5.0
+sys
