@@ -76,7 +76,7 @@ Don't forget to give the project a star! Thanks again!
 
 Frederik Madsen - [@your_twitter](https://twitter.com/NaCly_Dove) - frederik@emperium.tv
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/NaClyDove/Echidna)
+Project Link: [https://github.com/NaClyDove/Echidna](https://github.com/NaClyDove/Echidna)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
